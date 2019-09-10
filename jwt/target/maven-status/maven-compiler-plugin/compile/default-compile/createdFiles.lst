@@ -1,0 +1,7 @@
+Other\SecurityConstants.class
+Filter\JwtAuthenticationFilter.class
+controller\PrivateController.class
+Filter\JwtAuthorizationFilter.class
+config\SecurityConfiguration.class
+ch\ms\jwt\JwtApplication.class
+controller\PublicController.class

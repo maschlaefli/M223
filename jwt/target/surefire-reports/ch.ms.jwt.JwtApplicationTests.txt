@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ch.ms.jwt.JwtApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.512 s - in ch.ms.jwt.JwtApplicationTests
